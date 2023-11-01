@@ -3,13 +3,13 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **Creating Software projects**
+- 🔭 I’m currently working on **Creating Software Projects**
 
 - 🎓 I’m currently learning **Data Structures and Algorithms**
 
 - 🌱 I’m currently taking **Full Stack and Data Science Courses**
 
-- . 🥅 2024 Goals  **Contribute to Open Source projects**
+- . 🥅 2024 Goals  **Contribute to Open Source Projects**
 
 - 💬 Ask me about **Ask me about Anything**
 <!-- 🎮 ..... -->
