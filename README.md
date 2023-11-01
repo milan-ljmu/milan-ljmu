@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Creating Software projects**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🎓 I’m currently learning **Data Structures and Algorithms**
 
-- 🌱 I’m currently studying **Full Stack and Data Science Courses**
+- 🌱 I’m currently taking **Full Stack and Data Science Courses**
 
-- . 🥅 2024 Goals **2022 Goals: Contribute to Open Source projects**
+- . 🥅 2024 Goals  **Contribute to Open Source projects**
 
 - 💬 Ask me about **Ask me about Anything**
 <!-- 🎮 ..... -->
